@@ -1,3 +1,12 @@
+Since the original project is no longer maintained, I wanted to create this fork to fix some bugs
+and attempt to address some of the [unanswered issues](https://github.com/fuhsjr00/bug.n/issues)
+
+PRs are welcome!
+
+The original project can be found [here](https://github.com/fuhsjr00/bug.n)
+
+-----------
+
 ## bug.n &ndash; Tiling Window Management
 
 bug.n is a
